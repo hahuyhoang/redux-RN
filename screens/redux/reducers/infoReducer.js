@@ -2,7 +2,7 @@
 export const CAP_NHAT_EMAIL = "CAP_NHAT_EMAIL"
 export const CAP_NHAT_ID = "CAP_NHAT_ID"
 const initialState = {
-    email: "ss",
+    email: "",
     score: 0,
     address: "",
     id: "",
